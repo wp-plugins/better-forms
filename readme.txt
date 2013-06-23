@@ -3,7 +3,7 @@ Contributors: Synved
 Donate link: http://synved.com/wordpress-better-forms/
 Tags: icons, button, buttons, free, content, page, pages, widget, CSS, list, Post, posts, Style, form, Formatting, custom, Forms, form elements, select, input, button, textarea, radio, checkbox, plugin, Plugin, wordpress
 Requires at least: 3.1
-Tested up to: 3.5.1
+Tested up to: 3.5.2
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -11,6 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Lightweight plugin that just simply makes the forms on your WordPress site look better, more professional and reliable across browsers
 
 == Description ==
+
+**NOTE**: this plugin does **not** add any contact form functionality, it only affects the looks of form elements already created on your site, for instance by a specialized contact forms plugin like [Gravity Forms](http://synved.com/suggests/gravity-forms/).
 
 [WordPress Better Forms](http://synved.com/wordpress-better-forms/ "Make form elements look awesome!") is a lightweight free WordPress plugin that improves the visual impact and aesthetics of form elements on your site.
 
