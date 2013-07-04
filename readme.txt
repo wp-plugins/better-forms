@@ -1,7 +1,7 @@
 === Better Forms ===
 Contributors: Synved
 Donate link: http://synved.com/wordpress-better-forms/
-Tags: icons, button, buttons, free, content, page, pages, widget, CSS, list, Post, posts, Style, form, Formatting, custom, Forms, form elements, select, input, button, textarea, radio, checkbox, plugin, Plugin, wordpress
+Tags: icons, button, buttons, links, free, content, page, pages, widget, CSS, list, Post, posts, Style, form, Formatting, custom, Forms, form elements, select, input, button, textarea, radio, checkbox, plugin, Plugin, wordpress, formalize
 Requires at least: 3.1
 Tested up to: 3.5.2
 Stable tag: trunk
@@ -35,6 +35,7 @@ You might also want to check out our other free plugins, the [WordPress Shortcod
 * [Our own site](http://synved.com/) where you can see social sharing and following in action
 * [Stripefolio theme demo](http://wpdemo.synved.com/stripefolio/) where you can see how the form elements will look
 * [The free Stripefolio WordPress portfolio theme](http://synved.com/stripefolio-free-wordpress-portfolio-theme/ "A free WordPress theme that serves as a readable blog and a full-screen portfolio showcase") the Official page for the theme in the above demo link
+* [Formalize](http://formalize.me/) the JavaScript library responsible for the new forms look
 
 == Installation ==
 
