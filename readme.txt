@@ -14,9 +14,9 @@ Lightweight plugin that just simply makes the forms on your WordPress site look 
 
 **NOTE**: this plugin does **not** add any contact form functionality, it only affects the looks of form elements already created on your site, for instance by a specialized contact forms plugin like [Gravity Forms](http://synved.com/suggests/gravity-forms/).
 
-[WordPress Better Forms](http://synved.com/wordpress-better-forms/ "Make form elements look awesome!") is a lightweight free WordPress plugin that improves the visual impact and aesthetics of form elements on your site.
+[WordPress Better Forms](http://synved.com/wordpress-better-forms/ "Make form elements look awesome!") is a lightweight free WordPress plugin that improves the visual impact and aesthetics of forms and form elements on your site.
 
-All forms elements will have a much improved standardized look and feel across all browsers. This will overall make the forms look more professional and cleaner.
+All forms elements will have a much improved standardized look and feel across all browsers. This will overall make the forms look more professional and cleaner. Form elements are the pieces combined to create forms on your site.
 
 The new visual look will apply to all form elements including: input, textarea, select boxes, check boxes, radio buttons, regular buttons and submit buttons.
 
