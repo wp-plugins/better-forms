@@ -4,7 +4,7 @@ Plugin Name: Better Forms
 Plugin URI: http://synved.com/wordpress-better-forms/
 Description: Lightweight plugin that just simply makes the forms on your WordPress site look better, more professional and reliable across browsers
 Author: Synved
-Version: 1.1.2
+Version: 1.1.3
 Author URI: http://synved.com/
 
 LEGAL STATEMENTS

@@ -551,6 +551,11 @@ function synved_option_item_render(array $item)
 	return synved_option_item_callback($item, 'render', '$value, $params, $name, $id, $item');
 }
 
+function synved_option_item_render_fragment(array $item)
+{
+	return synved_option_item_callback($item, 'render-fragment', '$fragment, $output, $params, $name, $id, $item');
+}
+
 function synved_option_item_sanitize(array $item)
 {
 	return synved_option_item_callback($item, 'sanitize', '$value, $name, $id, $item');
@@ -805,6 +810,18 @@ function synved_option_item_addon_is_installed(array $item)
 				$path .= $folder;
 				
 				if (is_dir($path))
+				{
+					return true;
+				}
+			}
+			
+			$module = synved_option_item_property($item, 'module');
+			
+			if ($module != null)
+			{
+				$addon_list = synved_plugout_module_addon_list($module);
+				
+				if (isset($addon_list[$folder]))
 				{
 					return true;
 				}
