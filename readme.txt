@@ -3,7 +3,7 @@ Contributors: Synved
 Donate link: http://synved.com/wordpress-better-forms/
 Tags: icons, button, buttons, links, free, content, page, pages, widget, CSS, list, Post, posts, Style, form, Formatting, custom, Forms, form elements, select, input, button, textarea, radio, checkbox, plugin, Plugin, wordpress, formalize
 Requires at least: 3.1
-Tested up to: 4.0
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
